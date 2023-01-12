@@ -2,7 +2,7 @@
 
 **Linux path:** `~/.config/nvim/`
 
-**Windows path:** `~/AppData/Local/nvim/`
+**Windows path:** `$USERPROFILE/AppData/Local/nvim/`
 
 **Inspired by:**
 
